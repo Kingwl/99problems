@@ -1,3 +1,5 @@
+module Problem99Part1 where
+
 import Data.List
 
 lastElement :: [a] -> a
